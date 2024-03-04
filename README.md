@@ -8,7 +8,7 @@ Este repositório contém uma coleção dos meus gráficos criados para o desafi
 ![Semana_9 - Gráfico](semana_9/tidytuesday_week_09.png)
 
 #### [Semana 8](week_8/)
-![Semana_8 - Gráfico](week_8/text_mining.png)
+![Semana_8 - Gráfico](week8/text_mining.png)
 
 <!-- Repita o formato acima para outras semanas e outros gráficos -->
 
