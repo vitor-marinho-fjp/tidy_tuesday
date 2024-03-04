@@ -5,7 +5,7 @@ Este repositório contém uma coleção dos meus gráficos criados para o desafi
 ## 2024
 
 #### [Semana 9](semana_9/)
-[Link para gráfico interativo - Semana 9](https://vitor-marinho-fjp.github.io/tidy_tuesday/semana_9/)
+[Link para gráfico interativo - Semana 9](https://vitor-marinho-fjp.github.io/tidy_tuesday/)
 ![Semana_9 - Gráfico](semana_9/tidytuesday_week_09.png)
 
 
